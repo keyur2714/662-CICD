@@ -14,5 +14,13 @@
         <li><a href="about-us.html">About Us</a></li>
         <li><a href="contact-us.html">Contact Us</a></li>
     </ul>
+	<p>
+		Friends
+		<ul>
+			<li>Keyur</li>
+			<li>Denish</li>
+			<li>Vinit</li>
+		</ul>
+	</p>
 </body>
 </html>
